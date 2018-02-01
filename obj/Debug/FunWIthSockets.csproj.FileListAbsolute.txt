@@ -1,0 +1,9 @@
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\bin\Debug\FunWIthSockets.exe.config
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\obj\Debug\FunWIthSockets.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\obj\Debug\FunsWIthSockets.frmMain.resources
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\obj\Debug\FunWIthSockets.Properties.Resources.resources
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\obj\Debug\FunWIthSockets.csproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\bin\Debug\FunWIthSockets.exe
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\bin\Debug\FunWIthSockets.pdb
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\obj\Debug\FunWIthSockets.exe
+C:\Users\Douglas\Desktop\SocketTester\FunsWIthSockets\obj\Debug\FunWIthSockets.pdb
